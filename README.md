@@ -1,1 +1,2 @@
 # dec-challenge
+Goal is to practice coding every day in December. I am continuing to work through 50 Projects In 50 Days, a basics to expert JavaScript course for review, and then hopefully looking at practice React projects. 
